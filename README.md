@@ -228,4 +228,4 @@ Rules of Survival is the full free version, granting access to all features and 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-07 14:53:17 UTC
+**Last updated:** 2026-10-07 20:18:14 UTC
